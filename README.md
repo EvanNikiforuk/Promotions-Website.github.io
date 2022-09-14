@@ -14,6 +14,11 @@ Creating a check list
 # To do list
 - [x] <del> Creat a to do list </del>
 - [ ] Add more items from the paper
+- [ ] what the objective of the game is
+- [ ] steps on how to play
+- [ ] what operators are good
+- [ ] what guns are good
+- [ ] pistures of things in the game
 
 
 ---
