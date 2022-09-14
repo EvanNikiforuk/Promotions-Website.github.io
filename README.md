@@ -1,6 +1,12 @@
 # Promotions-Website.github.io
 Websites Project
 
-## Reminders
+# Reminders
+- None yet
 
-### To do list
+
+# To do list
+- Creat a to do list
+- Add more items from the paper
+
+
