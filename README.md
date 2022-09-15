@@ -14,11 +14,18 @@ Creating a check list
 # To do list
 - [x] <del> Creat a to do list </del>
 - [ ] Add more items from the paper
-- [ ] what the objective of the game is
-- [ ] steps on how to play
+- [ ] add a tittle
+- [ ] how to win
+- [ ] go over the modes that you can choose to play
 - [ ] what operators are good
 - [ ] what guns are good
+- [ ] what gun attatchments you should use
 - [ ] pistures of things in the game
+- [ ] xbox controles 
+- [ ] how to level up
+- [ ] go over what you can buy in the game
+- [ ] what bravo packs are
+- [ ] go over all the maps in the game
 
 
 ---
