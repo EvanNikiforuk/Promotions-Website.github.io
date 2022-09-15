@@ -26,7 +26,7 @@ Creating a check list
 - [ ] go over what you can buy in the game
 - [ ] what bravo packs are
 - [ ] go over all the maps in the game
-- [ ] data entry (this about me)
+- [ ] data entry (things about me)
 
 
 ---
