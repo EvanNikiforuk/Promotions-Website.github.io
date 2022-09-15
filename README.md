@@ -20,12 +20,13 @@ Creating a check list
 - [ ] what operators are good
 - [ ] what guns are good
 - [ ] what gun attatchments you should use
-- [ ] pistures of things in the game
+- [ ] find pistures of things in the game
 - [ ] xbox controles 
 - [ ] how to level up
 - [ ] go over what you can buy in the game
 - [ ] what bravo packs are
 - [ ] go over all the maps in the game
+- [ ] data entry (this about me)
 
 
 ---
