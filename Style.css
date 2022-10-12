@@ -3,7 +3,7 @@ header {
 }
 
 body {
-    background-image: url(https://preview.redd.it/di078u6oy13z.png);
+    background-image: url(https://wallpapers.com/images/featured/27b2k2cr473rb17g.jpg);
 }
 
 nav {
@@ -34,8 +34,8 @@ footer {
     width: 100%;
     color: white;
     text-align: center;
-    background: black;
-    border: 1px solid white;
+    background: blue;
+    border: 2px solid orangered;
 }
 
 div {
