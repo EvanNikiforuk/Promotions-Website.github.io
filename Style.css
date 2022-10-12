@@ -39,8 +39,8 @@ footer {
     width: 100%;
     color: black;
     text-align: center;
-    background: black;
-    border: 3px solid black;
+    background: blue;
+    border: 2px solid orangered;
 }
 
 div {
