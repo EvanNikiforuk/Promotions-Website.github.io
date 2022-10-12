@@ -1,15 +1,12 @@
 header {
-    border: 2px solid black;
-    padding: 15px;
+    padding:15px;
 }
 
 body {
-    border: 1px solid black;
-    background-image: url(https://preview.redd.it/di078u6oy13z.png);
+    background-image: url(https://wallpaperaccess.com/full/891537.jpg);
 }
 
 nav {
-
 }
 
 menu {
@@ -21,7 +18,6 @@ main {
 }
 
 section {
-
 }
 
 aside {
@@ -29,7 +25,6 @@ aside {
 }
 
 article {
-
 }
 
 footer {
@@ -37,12 +32,12 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: black;
+    color: white;
     text-align: center;
-    background: blue;
-    border: 2px solid orangered;
+    background: black;
+    border: 1px solid white;
 }
 
 div {
-    border: 2px thick dotted black
+    padding: 15px;
 }
