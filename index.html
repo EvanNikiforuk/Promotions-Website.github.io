@@ -26,11 +26,54 @@
 
         <!-- Cyber Security Note about JavaScript in Browsers-->
 
+        <style>
+            div {border: thin solid rgb(0, 17, 255);}
+
+            .dropbtn {
+                background-color: #04AA6D;
+                color: white;
+                padding: 16px;
+                font-size: 16px;
+                border: none;
+            }
+
+            .dropdown {
+                position: relative;
+                display: inline-block;
+            }
+
+            .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: #f1f1f1;
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                z-index: 1;
+            }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+            .dropdown-content a:hover {background-color: #ddd;}
+
+            .dropdown:hover .dropdown-content {display: block;}
+
+            .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+            .menu {
+                width: 25%;
+                float: left;
+                padding: 15px;
+                border: 1px solid ;
+            }
+        </style>
+
         <link href="Style.css" rel="stylesheet" type="text/css">
 
-        <style>
-            div{border: thin solid rgb(0, 17, 255);}
-        </style>
         
         <noscript>Running JavaScript is not necessary in this HTML page ... FYI your Feature to execute scripts is turned off</noscript>
 
@@ -43,6 +86,9 @@
         <nav>
             <header><div><h1 style="font-size:3vw; color:orangered">Navigaion</h1></div></header>
             <Section>
+                <ul>
+                    <li> <h1>Controles</h1>
+                </ul>
                 <ul style="list-style-type:square; font-size:1vw; color:orangered"><div>
                    <li> <h1>Controles: <a href="childPages/Controles.html" target="_blank" style="color:blue">Click Here</a></h1>
                    <li> <h1>Modes That You Can Choose From: <a href="childPages/Modes.html" target="_blank" style="color:blue">Click Here</a></h1>
